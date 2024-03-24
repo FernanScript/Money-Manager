@@ -29,3 +29,15 @@
 @import "theme/fonts.scss";
 @import "theme/margin.scss";
 @import "theme/padding.scss";
+@import "theme/shadows.scss";
+@import "theme/display.scss";
+@import "theme/colors.scss";
+
+
+ion-header {
+  background: var(--black);
+}
+
+ion-content {
+  --background: var(--black);
+}
